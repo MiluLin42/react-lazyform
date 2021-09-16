@@ -32,7 +32,7 @@ const Caution = styled.p`
 `;
 
 const InputTitle = styled.div`
-  margin-top: 24px;
+  margin-top: 40px;
   font-size: 20px;
   ${(props) =>
     props.$required &&
@@ -68,7 +68,7 @@ const Remark = styled.div`
 const Warning = styled.div`
   display: none;
   position: absolute;
-  top: 0;
+  top: 40px;
   color: red;
   font-size: 14px;
   ${(props) =>
