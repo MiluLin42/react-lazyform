@@ -13,7 +13,7 @@
     "styled-components": "^5.3.1",
     "web-vitals": "^1.1.2"
   },
-  "homepage": "https://MiluLin42.github.io/react-lazyform",
+  "homepage": "https://MiluLin42.github.io/react-gomoku",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
